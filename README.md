@@ -1,0 +1,2 @@
+# Voice-Cloner
+In this project we are cloning the voice of a person into the voice of another person by using audio clips of 5 seconds each as the training dataset. The objective of our project is to build and train a system capable of cloning the speech of a person from the voice of a different person in real time, by the implementation of wave generative adversarial network. In order to do so, we would train our system using audio datasets of a corpus of people saying different words instead of 5 second audio.
